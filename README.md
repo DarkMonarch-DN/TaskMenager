@@ -23,7 +23,7 @@ npm run start
 
 ### Используется глобальный префикс: api
 
-```json
+```
 POST /users
 Content-Type: application/json
 
